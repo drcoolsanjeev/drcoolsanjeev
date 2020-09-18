@@ -15,3 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br>
+<h3 align="center">Stats</h3>
+<br>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drcoolsanjeev&layout=compact&hide=html" alt="aakriti-salampuria" /> </p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drcoolsanjeev&show_icons=true&count_private=true" alt="aakriti-salampuria" /></p>
+
+
+<br>
