@@ -1,4 +1,6 @@
 ![Header Ground](https://github.com/drcoolsanjeev/drcoolsanjeev/blob/master/images/header.jpeg)
+<hr/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakritii" alt="aakritii" /> </p>
 ### Hi there 👋
 I'm a Associate Software Developer at RedHat with 2+ years of professional experience. 
 <!--
