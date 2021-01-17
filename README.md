@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drcoolsanjeev" alt="drcoolsanjeev" /> </p>
 
 ### Hi there 👋
-I'm a Associate Software Developer at RedHat with 2.5 years of professional experience. 
+I'm a Associate Software Developer (mainly A Javascript Developer) at RedHat with 2.5 years of professional experience. 
 <hr/>
 
 
