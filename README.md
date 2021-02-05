@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drcoolsanjeev" alt="drcoolsanjeev" /> </p>
 
 ### Hi there 👋
-I'm a Associate Software Developer (mainly A Javascript Developer) at RedHat with 2.5 years of professional experience. 
+I'm a Associate Software Developer (mainly A Javascript Developer) at RedHat with 2 years and 7 months of professional experience. 
 <hr/>
 
 ### 🔭 I’m currently working on ...
@@ -14,10 +14,10 @@ I'm a Associate Software Developer (mainly A Javascript Developer) at RedHat wit
 - JavaScript
 - HTML & CSS
 - Redux
-- GoLang
 
 ### 🌱 I’m currently learning ...
 - PostgresQL
+- GoLang
 - React Native
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drcoolsanjeev&layout=compact&hide=html" alt="drcoolsanjeev" /> 
