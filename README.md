@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drcoolsanjeev" alt="drcoolsanjeev" /> </p>
 
 ### Hi there 👋
-I'm a Associate Software Developer (mainly A Javascript Developer) at RedHat with 2 years and 7 months of professional experience. 
+I'm a Associate Software Developer (Full stack developer mainly focused on Frontend) at RedHat with 2 years and 7 months of professional experience. 
 <hr/>
 
 ### 🔭 I’m currently working on ...
@@ -12,6 +12,7 @@ I'm a Associate Software Developer (mainly A Javascript Developer) at RedHat wit
 - ReactJS
 - NodeJs
 - JavaScript
+- Java, Jax-Rs (REST-full Web Services)
 - HTML & CSS
 - Redux
 
