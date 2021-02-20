@@ -9,12 +9,12 @@ I'm a Associate Software Developer (Full stack developer mainly focused on Front
 
 ### 🔭 I’m currently working on ...
 
-- ReactJS
+- React with Hooks and Context
 - NodeJs
 - JavaScript
-- Java, Jax-Rs (REST-full Web Services)
+- Core Java, Jax-Rs (REST-full Web Services), Spring Boot
 - HTML & CSS
-- Redux
+
 
 ### 🌱 I’m currently learning ...
 - PostgresQL
