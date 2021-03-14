@@ -4,12 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drcoolsanjeev" alt="drcoolsanjeev" /> </p>
 
 ### Hi there 👋
-I'm a Software Developer (Full stack developer mainly focused on Frontend) at Tekion Corp | Ex-RedHat with 2 years and 10 months of professional experience. 
+I'm a Software Developer (Full stack developer mainly focused on Frontend) with 2 years and 10 months of professional experience. 
 <hr/>
 
 ### 🔭 I’m currently working on ...
 
 - React with Hooks and Context
+- Redux 
 - NodeJs
 - JavaScript
 - Core Java, Jax-Rs (REST-full Web Services), Spring Boot
