@@ -13,7 +13,8 @@ I'm a Software Developer (Full stack developer mainly focused on Frontend) with 
 - Redux 
 - NodeJs
 - JavaScript
-- Core Java, Jax-Rs (REST-full Web Services), Spring Boot
+- Core Java
+- Jax-Rs (REST-full Web Services)
 - HTML & CSS
 
 
@@ -21,6 +22,7 @@ I'm a Software Developer (Full stack developer mainly focused on Frontend) with 
 - PostgresQL
 - GoLang
 - React Native
+- Spring Boot
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drcoolsanjeev&layout=compact&hide=html" alt="drcoolsanjeev" /> 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drcoolsanjeev&show_icons=true&count_private=true" alt="drcoolsanjeev" /></p>
