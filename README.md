@@ -10,8 +10,8 @@ I'm a Software Developer (Full stack developer mainly focused on Frontend) with 
 
 ### 🔭 I’m currently working on ...
 
+- React with Redux
 - React with Hooks and Context
-- Redux 
 - NodeJs
 - JavaScript
 - Core Java
