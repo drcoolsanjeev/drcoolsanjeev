@@ -7,7 +7,7 @@
 <hr/>
 
 ### Hi there 👋
-I'm a Software Developer (Full stack developer mainly focused on Frontend) with 2 years and 10 months of professional experience. 
+I'm a Software Developer (Full stack developer mainly focused on Frontend) with 3+ years of professional experience. 
 <hr/>
 
 ### 🔭 I’m currently working on ...
@@ -19,13 +19,15 @@ I'm a Software Developer (Full stack developer mainly focused on Frontend) with 
 - Core Java
 - Jax-Rs (REST-full Web Services)
 - HTML & CSS
-
+- PostgresQL
+- GraphQL 
 
 ### 🌱 I’m currently learning ...
 - PostgresQL
 - GoLang
 - React Native
 - Spring Boot
+- AWS Basics
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drcoolsanjeev&layout=compact&hide=html" alt="drcoolsanjeev" /> 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drcoolsanjeev&show_icons=true&count_private=true" alt="drcoolsanjeev" /></p>
