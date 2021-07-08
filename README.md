@@ -8,8 +8,9 @@
 
 ### Hi there 👋
 I'm a Software Developer (Full stack developer mainly focused on Frontend) with 3+ years of professional experience. 
-<hr/>
 
+📫 How to reach me:  :link: [Website](https://sanjeev-kumar.netlify.app/) | :link: [LinkedIn](https://www.linkedin.com/in/drcoolsanjeev/)
+ <hr/> 
 ### 🔭 I’m currently working on ...
 
 - React with Redux
@@ -29,8 +30,6 @@ I'm a Software Developer (Full stack developer mainly focused on Frontend) with 
 - Spring Boot
 - AWS Basics
 
-### 📫 How to reach me: 
- link: [website](https://sanjeev-kumar.netlify.app/) | :link: [LinkedIn](https://www.linkedin.com/in/drcoolsanjeev/)
 
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drcoolsanjeev&layout=compact&hide=html" alt="drcoolsanjeev" /> 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drcoolsanjeev&show_icons=true&count_private=true" alt="drcoolsanjeev" /></p>
