@@ -7,7 +7,7 @@
 <hr/>
 
 ### Hi there 👋
-I'm a Software Developer (Full stack developer mainly focused on Frontend) with 3+ years of professional experience. 
+I'm a Software Developer 2 at Paypal (Full stack developer mainly focused on Frontend) with 3+ years of professional experience. 
 
 📫 How to reach me:  :link: [Website](https://sanjeev-kumar.netlify.app/) | :link: [LinkedIn](https://www.linkedin.com/in/drcoolsanjeev/)
  <hr/> 
