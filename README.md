@@ -7,7 +7,7 @@
 <hr/>
 
 ### Hi there 👋
-I'm a Senior Software Developer at Zenius Education with 4+ years of professional experience. 
+I'm a Senior Software Developer at TESCO Technology with 6+ years of professional experience. 
 
 📫 How to reach me:  :link: [Website](https://sanjeev-kumar.netlify.app/) | :link: [LinkedIn](https://www.linkedin.com/in/drcoolsanjeev/)
  <hr/> 
@@ -19,16 +19,18 @@ I'm a Senior Software Developer at Zenius Education with 4+ years of professiona
 - NodeJs
 - JavaScript
 - Core Java
+- Spring Boot 
 - Jax-Rs (REST-full Web Services)
 - HTML & CSS
 - PostgresQL
+- Redis
+- Kafka
 - GraphQL 
 
 ### 🌱 I’m currently learning ...
 - GoLang
 - React Native
-- Spring Boot
-- AWS Basics
+- Azure & AWS
 
 
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drcoolsanjeev&layout=compact&hide=html" alt="drcoolsanjeev" /> 
